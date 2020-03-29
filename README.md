@@ -6,4 +6,4 @@ Através do desenvolvimento do projeto proposto - o “Be The Hero”, que tem o
 
 Além disso, vi como é possível desenvolver o back-end, front-end e mobile de toda a aplicação, a partir de uma única linguagem - JavaScript -, sem comprometer a produtividade e a performance. 
 
-Muito feliz com o resultado e com todo o aprendizado adquirido durante essa semana que superou todas as minhas expectativas! Muito obrigada a Rockeseat por compartilhar esse conteúdo incrível e por proporcionar a melhor experiência!
+Muito feliz com o resultado e com todo o aprendizado adquirido durante essa semana que superou todas as minhas expectativas! Muito obrigada a Rocketseat por compartilhar esse conteúdo incrível e por proporcionar a melhor experiência!
