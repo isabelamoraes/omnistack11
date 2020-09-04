@@ -39,9 +39,9 @@ $ git clone https://github.com/isabelamoraes/omnistack11.git omnistack11
 
 # Go into the repository desired
 $ cd omnistack11/backend
-OR
+# OR
 $ cd omnistack11/frontend
-OR
+# OR
 $ cd omnistack11/mobile
 
 # Install dependencies
