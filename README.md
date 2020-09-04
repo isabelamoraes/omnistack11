@@ -1,9 +1,52 @@
-# Semana OmniStack11
+<h1 align="center">
+  <br>
+    <img src="YOUR_LOGO_URL" alt="Be The Hero" width="120">
+  <br>
+  <br>
+  BE THE HERO
+</h1>
 
-Durante a minha participação na Semana OmniStack 11.0, pude perceber na prática o quão dinâmico e poderoso é o JavaScript. 
+<h4 align="center">
+  Description
+</h4>
 
-Através do desenvolvimento do projeto proposto - o “Be The Hero”, que tem o intuito de conectar pessoas aos casos disponibilizados pelas ONGs cadastradas - foi possível aprender um pouco sobre as tecnologias Node.js e React, além de ampliar o meu conhecimento em React Native.
+<p align="center">
+  <a href="#features-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#getting_started-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#reference-reference">Reference</a>
+</p>
 
-Além disso, vi como é possível desenvolver o back-end, front-end e mobile de toda a aplicação, a partir de uma única linguagem - JavaScript -, sem comprometer a produtividade e a performance. 
+<p align="center">
+  <img alt="App Demo" src="YOUR_GIF_URL">
+  <img alt="App Demo" src="YOUR_GIF_URL">
+</p>
 
-Muito feliz com o resultado e com todo o aprendizado adquirido durante essa semana que superou todas as minhas expectativas! Muito obrigada a Rocketseat por compartilhar esse conteúdo incrível e por proporcionar a melhor experiência!
+## :features: Features
+
+This project was developed with the following technologies:
+
+-  **[Expo](https://expo.io/)** A platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+-  **[React JS](https://facebook.github.io/react-native/)** A JavaScript library for building user interfaces.
+-  **[Node JS](https://reactnavigation.org/)** A runtime enviroment for JavaScript applications.
+
+## :getting_started: Getting Started
+
+To clone and run this application, place from your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/isabelamoraes/omnistack11.git omnistack11
+
+# Go into the repository
+$ cd omnistack11
+
+# Install dependencies
+$ yarn install
+
+# Run the app (Expo)
+$ yarn start
+```
+
+## :reference: Reference
+
+This application was developed during my participation in OmniStack 11, promoted by Rocketseat.
