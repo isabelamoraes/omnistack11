@@ -11,9 +11,9 @@
 </h4>
 
 <p align="center">
-  <a href="#feature-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#getting_started-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#reference-reference">Reference</a>
+  <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#reference">Reference</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <img alt="App Demo" src="YOUR_GIF_URL">
 </p>
 
-## :feature: Features
+## Features
 
 This project was developed with the following technologies:
 
@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 -  **[React JS](https://reactjs.org/)** A JavaScript library for building user interfaces.
 -  **[Node JS](https://nodejs.org/)** A runtime enviroment for JavaScript applications.
 
-## :getting_started: Getting Started
+## Getting Started
 
 To clone and run this application, place from your command line:
 
@@ -47,6 +47,6 @@ $ yarn install
 $ yarn start
 ```
 
-## :reference: Reference
+## Reference
 
 This application was developed during my participation in OmniStack 11, promoted by Rocketseat.
