@@ -47,7 +47,7 @@ $ cd omnistack11/mobile
 # Install dependencies
 $ yarn install
 
-# Run the app (Expo)
+# Run the application
 $ yarn start
 ```
 
