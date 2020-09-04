@@ -11,7 +11,7 @@
 </h4>
 
 <p align="center">
-  <a href="#features-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#feature-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#getting_started-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#reference-reference">Reference</a>
 </p>
@@ -21,13 +21,13 @@
   <img alt="App Demo" src="YOUR_GIF_URL">
 </p>
 
-## :features: Features
+## :feature: Features
 
 This project was developed with the following technologies:
 
 -  **[Expo](https://expo.io/)** A platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
--  **[React JS](https://facebook.github.io/react-native/)** A JavaScript library for building user interfaces.
--  **[Node JS](https://reactnavigation.org/)** A runtime enviroment for JavaScript applications.
+-  **[React JS](https://reactjs.org/)** A JavaScript library for building user interfaces.
+-  **[Node JS](https://nodejs.org/)** A runtime enviroment for JavaScript applications.
 
 ## :getting_started: Getting Started
 
