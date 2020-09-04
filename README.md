@@ -37,8 +37,12 @@ To clone and run this application, place from your command line:
 # Clone this repository
 $ git clone https://github.com/isabelamoraes/omnistack11.git omnistack11
 
-# Go into the repository
-$ cd omnistack11
+# Go into the repository desired
+$ cd omnistack11/backend
+OR
+$ cd omnistack11/frontend
+OR
+$ cd omnistack11/mobile
 
 # Install dependencies
 $ yarn install
