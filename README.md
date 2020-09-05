@@ -25,9 +25,9 @@
 
 This project was developed with the following technologies:
 
--  **[Expo](https://expo.io/)** A platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
--  **[React JS](https://reactjs.org/)** A JavaScript library for building user interfaces.
--  **[Node JS](https://nodejs.org/)** A runtime enviroment for JavaScript applications.
+-  **[Expo](https://expo.io/)** - A platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+-  **[React JS](https://reactjs.org/)** - A JavaScript library for building user interfaces.
+-  **[Node JS](https://nodejs.org/)** - A runtime enviroment for JavaScript applications.
 
 ## Getting Started
 
