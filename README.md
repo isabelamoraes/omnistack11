@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/isabelamoraes/omnistack11/master/demo/logo.jpg" alt="Be The Hero" width="120">
+    <img src="https://raw.githubusercontent.com/isabelamoraes/omnistack11/master/demo/logo.jpg" alt="Be The Hero">
   <br>
   <br>
   BE THE HERO
