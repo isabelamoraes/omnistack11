@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero.gif?raw=true" width="75%">
-  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero_app.gif?raw=true" width="25%">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero.gif?raw=true" width="70%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero_app.gif?raw=true" width="23%">
 </p>
 
 ## Features
