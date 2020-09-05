@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-    <img src="YOUR_LOGO_URL" alt="Be The Hero" width="120">
+    <img src="https://raw.githubusercontent.com/isabelamoraes/omnistack11/master/demo/logo.jpg" alt="Be The Hero" width="120">
   <br>
   <br>
   BE THE HERO
 </h1>
 
 <h4 align="center">
-  Description
+  Connecting ONGs with people who want to help
 </h4>
 
 <p align="center">
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="YOUR_GIF_URL">
-  <img alt="App Demo" src="YOUR_GIF_URL">
+  <img alt="Web Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero.gif?raw=true" width="75%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/omnistack11/blob/master/demo/be_the_hero_app.gif?raw=true" width="25%">
 </p>
 
 ## Features
